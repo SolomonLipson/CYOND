@@ -8,7 +8,7 @@ Users can request deletion of their account and associated data at any time.
 
 ## How to request account deletion
 
-Please send an email to **support@cyond.com** with the subject line:
+Please send an email to **info@cyond.com** with the subject line:
 
 `Delete CYOND Kavach Account`
 
